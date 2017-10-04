@@ -1,0 +1,35 @@
+h1{
+    font-size: 80px;
+    font-family: 'Roboto', sans-serif;
+    color: #1b4b99;
+   
+}
+h2{
+    font-family: 'Quicksand', sans-serif;
+
+}
+.container {
+  margin: 0 auto;
+  max-width: 940px; 
+  padding: 0 10px;
+}
+.header {
+  background: url(https://static.pexels.com/photos/338515/pexels-photo-338515.jpeg) no-repeat center center; 
+  background-size: cover;
+  height: 650px;
+  text-align: left; 
+}
+.header .container {
+  position: relative;
+  top: 200px;
+}
+html, body {
+  margin: 0;
+  padding: 0;
+}
+#intro{
+    text-align: center
+}
+#page2{
+    text-align: center
+}
